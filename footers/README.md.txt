@@ -1,0 +1,1 @@
+subsoluri simple
