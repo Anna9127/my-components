@@ -1,0 +1,1 @@
+here we use function calc() for footer
