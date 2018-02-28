@@ -1,0 +1,1 @@
+a bootstrap solution for footers
